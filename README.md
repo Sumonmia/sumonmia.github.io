@@ -65,6 +65,8 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 * **Programming & Tools:** Python, MATLAB, C++, Java, SQL, Linux Shell Scripting.
 * **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-learn, Git.
 
+Helpline:
+https://www.youtube.com/watch?v=D9CLhQdLp8w
 ## HONORS AND AWARDS
 * **RUET Academic Merit Scholarship** — Awarded throughout undergraduate semesters for maintaining a top-tier CGPA.
 * **Technical Board Merit Grant** — Awarded for exceptional performance in HSC and SSC board examinations.
