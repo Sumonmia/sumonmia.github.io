@@ -1,4 +1,4 @@
 title: Portfolio
 description: Perspective research student, looking for an opportunity in Applied AI, Computer Vision, & Intelligent Cybersecurity
 logo: assets/images/sumon.png
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
