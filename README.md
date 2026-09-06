@@ -10,18 +10,35 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 
 ## EDUCATION
 
-### Bachelor of Science (B.Sc.) in Computer Science & Engineering
+### B.Sc. in Computer Science & Engineering (2012-2016)
 **Rajshahi University of Engineering & Technology (RUET)**, Rajshahi, Bangladesh
 * **Graduation Year:** October 2016
 * **Cumulative CGPA:** 3.72 / 4.00 
 * **Merit Position:** 6th out of the graduating cohort
 * **Undergraduate Thesis:** A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network
 
-### Higher Secondary Certificate (HSC) — Science
-**Jessore Board**, Bangladesh | Passing Year: 2011 | **GPA: 5.00 / 5.00**
+### Higher Secondary Certificate (HSC) — Science (2011)
+**Jessore Board**, Bangladesh | **GPA: 5.00 / 5.00**
 
-### Secondary School Certificate (SSC) — Science
-**Jessore Board**, Bangladesh | Passing Year: 2009 | **GPA: 5.00 / 5.00**
+### Secondary School Certificate (SSC) — Science (2009)
+**Jessore Board**, Bangladesh | **GPA: 5.00 / 5.00**
+
+## PROFESSIONAL EXPERIENCE
+
+### Assistant Programmer _June 2019 – Present_
+**Department of ICT, Ministry of Post, Telecommunication and ICT**, Bangladesh
+
+* Engineered and managed national-scale secure IT infrastructure and enterprise data frameworks under the government’s digital governance mandate.
+* Formulated and audited technical specifications for government web platforms, ensuring zero-trust network principles and robust cybersecurity.
+* Developed and optimized secure data exchange protocols, mitigating potential vulnerabilities and injection risks across inter-departmental networks.
+* Supervised system rollouts and provided technical consultancy on integrating Machine Learning applications for smart public service tracking.
+
+### Lecturer _2017 – June 2019_
+**Department of CSE, Bangladesh Army University of Engineering & Technology (BAUET)**, Natore, Bangladesh
+
+* Conducted undergraduate classroom lectures and engineered practical laboratory frameworks for core computing courses including Artificial Intelligence, Neural Networks, Data Structures, and Algorithms.
+* Supervised and evaluated undergraduate final year capstone research projects focused on Applied Machine Learning and Image Processing.
+* Managed departmental academic committees, processed semester examinations, and served as an academic counselor for 50+ students.
 
 ## PUBLICATIONS
 
@@ -34,22 +51,7 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
    * **Date Added to IEEE Xplore:** January 31, 2019
    *(Note: Please bold your position/name in the author list above if you are one of the co-authors)*
 
-## PROFESSIONAL EXPERIENCE
 
-### Assistant Programmer
-**Department of ICT, Ministry of Post, Telecommunication and ICT**, Bangladesh
-*June 2019 – Present*
-* Engineered and managed national-scale secure IT infrastructure and enterprise data frameworks under the government’s digital governance mandate.
-* Formulated and audited technical specifications for government web platforms, ensuring zero-trust network principles and robust cybersecurity.
-* Developed and optimized secure data exchange protocols, mitigating potential vulnerabilities and injection risks across inter-departmental networks.
-* Supervised system rollouts and provided technical consultancy on integrating Machine Learning applications for smart public service tracking.
-
-### Lecturer
-**Department of CSE, Bangladesh Army University of Engineering & Technology (BAUET)**, Natore, Bangladesh
-*March 2017 – June 2019*
-* Conducted undergraduate classroom lectures and engineered practical laboratory frameworks for core computing courses including Artificial Intelligence, Neural Networks, Data Structures, and Algorithms.
-* Supervised and evaluated undergraduate final year capstone research projects focused on Applied Machine Learning and Image Processing.
-* Managed departmental academic committees, processed semester examinations, and served as an academic counselor for 50+ students.
 
 ## RESEARCH & TECHNICAL PROJECTS
 
