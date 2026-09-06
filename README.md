@@ -72,17 +72,3 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 ## STANDARDIZED TESTS
 * **IELTS Academic:** [Scheduled for October 2026 | Target: 7.5+ (No band below 6.5)]
 
-## REFERENCES
-
-1. **Firoz Mahmud**
-   Assistant Professor, Department of CSE
-   Rajshahi University of Engineering & Technology (RUET)
-   Email: sabuz.ruet@gmail.com
-   *Relationship: Undergraduate Thesis Advisor*
-
-2. **Prof. Dr. Md. Al Mamun**
-   Prfessor, Department of CSE
-   Bangladesh Army University of Engineering & Technology (BAUET)
-   Email: [Reference Email]
-   *Relationship: Academic Supervisor during Lectureship*
-
