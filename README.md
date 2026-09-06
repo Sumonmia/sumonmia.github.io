@@ -1,5 +1,5 @@
 # Md. Sumon Mia
-Dhaka, Bangladesh | **sumon.ruetbd@gmail.com**
+Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 **linkedin** [sumonmia77](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumonmia](https://github.com/Sumonmia)
 
 ## RESEARCH INTERESTS
