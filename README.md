@@ -1,7 +1,6 @@
 # Md. Sumon Mia
-Dhaka, Bangladesh| sumon.ruetbd@gmail.com
-* **linkedin** [sumonmia77](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumonmia](https://github.com/Sumonmia)
-* **DOI:** [10.1109/CEEICT.2018.8628140](https://doi.org)
+Dhaka, Bangladesh | **sumon.ruetbd@gmail.com**
+**linkedin** [sumonmia77](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumonmia](https://github.com/Sumonmia)
 
 ## RESEARCH INTERESTS
 * Machine Learning & Neural Network Optimization
