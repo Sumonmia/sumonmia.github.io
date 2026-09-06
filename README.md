@@ -2,7 +2,7 @@
 Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 **linkedin** [sumonmia77](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumonmia](https://github.com/Sumonmia)
 
-<span style="color: green; text: bold; font-size: 28;"> ## RESEARCH INTERESTS </span>
+## RESEARCH INTERESTS 
 * Machine Learning & Neural Network Optimization
 * Artificial Intelligence & Applied Computer Vision
 * AI-Driven Cybersecurity & Vulnerability Analysis
