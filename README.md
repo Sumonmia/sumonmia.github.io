@@ -1,15 +1,15 @@
 # sumonmia.github.io
-A research portfolio
+# A research portfolio
 
-###Education
+### Education
 
-###Work Experience
-
-
-###Publications
+### Work Experience
 
 
-###Skills
+### Publications
+
+
+### Skills
 
 
 ###Awards and Titles
