@@ -42,11 +42,13 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 
 ## PUBLICATIONS
 
-1. Bayezid Islam, Firoz Mahmud, Arafat Hossain, **Md. Sumon Mia**, and Pushpen Bikash Goala. (2018). "Human Facial Expression Recognition System Using Artificial Neural Network Classification of Gabor Feature Based Facial Expression Information" In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE. 
+1. Bayezid Islam, Firoz Mahmud, Arafat Hossain, **Md. Sumon Mia**, and Pushpen Bikash Goala. (2018). "Human Facial Expression Recognition System Using Artificial Neural Network Classification of Gabor Feature Based Facial Expression Information"
+In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE. 
    * **DOI:** [10.1109/CEEICT.2018.8628140](https://ieeexplore.ieee.org/document/8628050)
    * **Date Added to IEEE Xplore:** January 31, 2019
 
-2. Bayezid Islam; Firoz Mahmud; Arafat Hossain; Pushpen Bikash Goala; **Md. Sumon Mia** (2018). "A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network" In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE.
+2. Bayezid Islam; Firoz Mahmud; Arafat Hossain; Pushpen Bikash Goala; **Md. Sumon Mia** (2018). "A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network"
+In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE.
    * **DOI:** [10.1109/CEEICT.2018.8628050](https://ieeexplore.ieee.org/document/8628140)
    * **Date Added to IEEE Xplore:** January 31, 2019
 
@@ -62,7 +64,7 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 ## TECHNICAL SKILLS
 * **Core Specialties:** Neural Network Architectures (ANN, ELM, Deep Learning), Gabor Feature Optimization, Secure System Architecture, AI-Driven Threat Detection.
 * **Programming & Tools:** Python, MATLAB, Java, SQL, Linux Shell Scripting.
-* **Frameworks & Libraries:** Git.
+* **Frameworks & Libraries:** Express.js (JavaScript / Node.js), Django (Python), Git version control.
 
 
 ## HONORS AND AWARDS
