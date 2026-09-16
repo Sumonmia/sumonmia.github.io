@@ -1,6 +1,6 @@
 # Md. Sumon Mia
 Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
-**linkedin** [](https://www.linkedin.com/in/sumonmia77/)  | **github** [](https://github.com/Sumonmia)
+**linkedin** [sumon](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumon](https://github.com/Sumonmia)
 
 ## RESEARCH INTERESTS 
 * Machine Learning & Neural Network Optimization
@@ -62,8 +62,8 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 
 ## TECHNICAL SKILLS
 * **Core Specialties:** Neural Network Architectures (ANN, ELM, Deep Learning), Gabor Feature Optimization, Secure System Architecture, AI-Driven Threat Detection.
-* **Programming & Tools:** Python, MATLAB, C++, Java, SQL, Linux Shell Scripting.
-* **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-learn, Git.
+* **Programming & Tools:** Python, MATLAB, Java, SQL, Linux Shell Scripting.
+* **Frameworks & Libraries:** Git.
 
 
 ## HONORS AND AWARDS
