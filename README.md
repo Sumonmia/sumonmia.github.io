@@ -49,7 +49,6 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 2. Bayezid Islam; Firoz Mahmud; Arafat Hossain; Pushpen Bikash Goala; **Md. Sumon Mia** (2018). "A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network" In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE.
    * **DOI:** [10.1109/CEEICT.2018.8628050](https://ieeexplore.ieee.org/document/8628140)
    * **Date Added to IEEE Xplore:** January 31, 2019
-   *(Note: Please bold your position/name in the author list above if you are one of the co-authors)*
 
 
 
