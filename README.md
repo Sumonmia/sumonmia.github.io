@@ -1,6 +1,6 @@
 # Md. Sumon Mia
 Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
-**linkedin** [sumonmia77](https://www.linkedin.com/in/sumonmia77/)  | **github** [sumonmia](https://github.com/Sumonmia)
+**linkedin** [](https://www.linkedin.com/in/sumonmia77/)  | **github** [](https://github.com/Sumonmia)
 
 ## RESEARCH INTERESTS 
 * Machine Learning & Neural Network Optimization
@@ -13,9 +13,9 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 ### B.Sc. in Computer Science & Engineering (2012-2016)
 **Rajshahi University of Engineering & Technology (RUET)**, Rajshahi, Bangladesh
 * **Graduation Year:** October 2016
-* **Cumulative CGPA:** 3.72 / 4.00 
-* **Merit Position:** 6th out of the graduating cohort
-* **Undergraduate Thesis:** A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network
+* **Cumulative CGPA:** **3.72 / 4.00** 
+* **Merit Position:** **6th** out of the 60 graduating cohort
+* **Undergraduate Thesis:** Facial Expression Recognition Based on Extreme Learning Machine and Backpropagation Neural Network Algorithm
 
 ### Higher Secondary Certificate (HSC) — Science (2011)
 **Jessore Board**, Bangladesh | **GPA: 5.00 / 5.00**
@@ -25,7 +25,7 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 
 ## PROFESSIONAL EXPERIENCE
 
-### Assistant Programmer _June 2019 – Present_
+### Assistant Programmer (June 2019 – Present)
 **Department of ICT, Ministry of Post, Telecommunication and ICT**, Bangladesh
 
 * Engineered and managed national-scale secure IT infrastructure and enterprise data frameworks under the government’s digital governance mandate.
@@ -33,7 +33,7 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 * Developed and optimized secure data exchange protocols, mitigating potential vulnerabilities and injection risks across inter-departmental networks.
 * Supervised system rollouts and provided technical consultancy on integrating Machine Learning applications for smart public service tracking.
 
-### Lecturer _2017 – June 2019_
+### Lecturer (Jan-2017 – June 2019)
 **Department of CSE, Bangladesh Army University of Engineering & Technology (BAUET)**, Natore, Bangladesh
 
 * Conducted undergraduate classroom lectures and engineered practical laboratory frameworks for core computing courses including Artificial Intelligence, Neural Networks, Data Structures, and Algorithms.
@@ -42,12 +42,12 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 
 ## PUBLICATIONS
 
-1. **[Your Name]**, Co-author Name(s). (2018). "A facial region segmentation based approach to recognize human emotion using fusion of HOG & LBP features and artificial neural network." In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE. 
-   * **DOI:** [10.1109/CEEICT.2018.8628140](https://doi.org)
+1. Bayezid Islam, Firoz Mahmud, Arafat Hossain, **Md. Sumon Mia**, and Pushpen Bikash Goala. (2018). "Human Facial Expression Recognition System Using Artificial Neural Network Classification of Gabor Feature Based Facial Expression Information" In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE. 
+   * **DOI:** [10.1109/CEEICT.2018.8628140](https://ieeexplore.ieee.org/document/8628050)
    * **Date Added to IEEE Xplore:** January 31, 2019
 
-2. Bayezid Islam, Firoz Mahmud, Arafat Hossain, Md. Sumon Mia, and Pushpen Bikash Goala. (2018). "Human Facial Expression Recognition System Using Artificial Neural Network Classification of Gabor Feature Based Facial Expression Information." In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE.
-   * **DOI:** [10.1109/CEEICT.2018.8628050](https://doi.org)
+2. Bayezid Islam; Firoz Mahmud; Arafat Hossain; Pushpen Bikash Goala; **Md. Sumon Mia** (2018). "A Facial Region Segmentation Based Approach to Recognize Human Emotion Using Fusion of HOG & LBP Features and Artificial Neural Network" In *Proceedings of the 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT)*, Dhaka, Bangladesh. Publisher: IEEE.
+   * **DOI:** [10.1109/CEEICT.2018.8628050](https://ieeexplore.ieee.org/document/8628140)
    * **Date Added to IEEE Xplore:** January 31, 2019
    *(Note: Please bold your position/name in the author list above if you are one of the co-authors)*
 
@@ -65,8 +65,7 @@ Dhaka, Bangladesh | **sumon.ruetbd@gmail.com** |
 * **Programming & Tools:** Python, MATLAB, C++, Java, SQL, Linux Shell Scripting.
 * **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-learn, Git.
 
-Helpline:
-https://www.youtube.com/watch?v=D9CLhQdLp8w
+
 ## HONORS AND AWARDS
 * **RUET Academic Merit Scholarship** — Awarded throughout undergraduate semesters for maintaining a top-tier CGPA.
 * **Technical Board Merit Grant** — Awarded for exceptional performance in HSC and SSC board examinations.
@@ -74,3 +73,6 @@ https://www.youtube.com/watch?v=D9CLhQdLp8w
 ## STANDARDIZED TESTS
 * **IELTS Academic:** [Scheduled for October 2026 | Target: 7.5+ (No band below 6.5)]
 
+
+Helpline:
+https://www.youtube.com/watch?v=D9CLhQdLp8w
